@@ -8,7 +8,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 * **Goal:** To build consistency, improve algorithmic efficiency (time and space complexity), and prepare for upcoming technical interviews.
 
 ## 📊 Progress Dashboard
-* **Language(s) Used:** Python / JavaScript / Java / C++ *(Keep only what you use!)*
+* **Language(s) Used:** C++
 * **Focus Areas:** Arrays, Two Pointers, Sliding Window, Trees, Graphs, and Dynamic Programming.
 
 ## 🛠️ Tech Stack & Tools
