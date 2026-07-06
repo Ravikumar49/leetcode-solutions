@@ -18,3 +18,15 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 
 ---
 *“Consistency is the key to mastering algorithms. One problem a day keeps the unemployment away!”* 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+<!---LeetCode Topics End-->
