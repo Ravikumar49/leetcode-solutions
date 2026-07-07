@@ -16,7 +16,7 @@ public:
         }
         return x;
     }
-    int sumOfDigits(int n) {
+    int sumOfDigits(long long n) {
         int sum = 0;
         while(n > 0) {
             int rem = n%10;
