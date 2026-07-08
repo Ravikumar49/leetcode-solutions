@@ -3,12 +3,11 @@ public:
     const long long MOD = 1000000007;
     int number(vector<long long>& pref, int l, int r, vector<int>& count, vector<long long>& pow10) {
         int x;
-        int length;
         if(l == 0) {
            return pref[r];
         }
         else {
-            length = count[r] - count[l-1];
+            int length = count[r] - count[l-1];
             x = (((1LL * pref[r] - pref[l-1] * pow10[length]) % MOD + MOD) % MOD);
         }
         return x;
@@ -28,14 +27,12 @@ public:
         for(int i=1;i<m;i++) {
             arr[i] = s[i] - '0';
             prefix[i] = prefix[i-1] + arr[i];
-            if(arr[i] != 0)
-                pref[i] = (pref[i-1] * 10 + arr[i]) % MOD;
-            else
-                pref[i] = pref[i-1];
             if(arr[i] != 0) {
+                pref[i] = (pref[i-1] * 10 + arr[i]) % MOD;
                 count[i] = count[i-1] + 1;
             }
             else {
+                pref[i] = pref[i-1];
                 count[i] = count[i-1];
             }
             pow10[i] = (pow10[i-1] * 10) % MOD;
