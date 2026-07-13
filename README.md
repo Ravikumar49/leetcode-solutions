@@ -104,6 +104,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
