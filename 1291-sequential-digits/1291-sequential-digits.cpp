@@ -12,22 +12,14 @@ public:
         int lowLen = digit(low);
         int highLen = digit(high);
         vector<int> ans;
-        while(lowLen <= highLen) {
-            int length = lowLen;
-            int start = 1;
-            while(start <= 10 - length) {
+        for(int len=lowLen;len<=highLen;len++) {
+            for(int start = 1;start<=10 - len;start++) {
                 int num = 0;
-                int digit = start;
-                while(length > 0) {
-                    num = num * 10 + digit;
-                    digit++;
-                    length--;
+                for(int d=0;d<len;d++) {
+                    num = num * 10 + (start + d);
                 }
                 if(low <= num && num <= high) ans.push_back(num);
-                start++;
-                length = lowLen;
             }
-            lowLen++;
         }
         return ans;
     }
