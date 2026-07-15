@@ -48,6 +48,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -121,4 +122,5 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
