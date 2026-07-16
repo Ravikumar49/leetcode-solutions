@@ -15,7 +15,7 @@ public:
                 }
                 j++;
             }
-            if(freq.size() <= 2) ans = max(ans, i-j+1);
+            ans = max(ans, i-j+1);
             i++;
         }
         return ans;
