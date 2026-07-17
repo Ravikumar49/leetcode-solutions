@@ -6,14 +6,11 @@ public:
         for(int i=0;i<n;i++) {
             map[nums[i]] = i;
         }
-        vector<int> ans;
         for(int i=0;i<n;i++) {
             if(map.find(target - nums[i]) != map.end() && map[target - nums[i]] != i) {
-                ans.push_back(i);
-                ans.push_back(map[target - nums[i]]);
-                break;
+                return {i, map[target - nums[i]]};
             }
         }
-        return ans;
+        return {};
     }
 };
