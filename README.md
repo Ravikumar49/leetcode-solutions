@@ -37,6 +37,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0977-squares-of-a-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -65,6 +66,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -165,6 +167,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
