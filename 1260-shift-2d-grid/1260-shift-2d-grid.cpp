@@ -8,8 +8,7 @@ public:
         int index = 0;
         for(int i=0;i<m;i++) {
             for(int j=0;j<n;j++) {
-                flat[index] = grid[i][j];
-                index++;
+                flat[index++] = grid[i][j];
             }
         }
         int N = m * n;
