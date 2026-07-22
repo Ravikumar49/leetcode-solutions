@@ -4,9 +4,9 @@ public:
         vector<bool> ans(queries.size(), false);
         vector<int> component(n);
         int val = 0;
-        component[0] = 0;
+        component[0] = val;
         for(int i=1;i<n;i++) {
-            if(abs(nums[i-1] - nums[i]) <= maxDiff) {
+            if(abs(nums[i] - nums[i-1]) <= maxDiff) {
                 component[i] = val;
             }
             else {
@@ -15,9 +15,7 @@ public:
             }
         }
         for(int i=0;i<queries.size();i++) {
-            int u = queries[i][0];
-            int v = queries[i][1];
-            ans[i] = (component[u] == component[v]);
+            ans[i] = component[queries[i][0]] == component[queries[i][1]];
         }
         return ans;
     }
