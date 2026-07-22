@@ -182,6 +182,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -190,6 +191,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Number Theory
@@ -205,6 +207,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -271,4 +274,5 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
