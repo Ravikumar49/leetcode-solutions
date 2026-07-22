@@ -188,6 +188,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Number Theory
@@ -201,6 +202,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -262,4 +264,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
