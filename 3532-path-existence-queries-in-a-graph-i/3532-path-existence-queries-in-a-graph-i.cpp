@@ -10,8 +10,8 @@ public:
                 component[i] = val;
             }
             else {
-                val++;
-                component[i] = val;
+                //val++;
+                component[i] = ++val;
             }
         }
         for(int i=0;i<queries.size();i++) {
