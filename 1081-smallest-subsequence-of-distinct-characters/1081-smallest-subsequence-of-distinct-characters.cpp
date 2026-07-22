@@ -1,13 +1,14 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        stack<char> st;
+        int n = s.size();
         unordered_map<char, int> freq;
         unordered_set<char> visited;
-        for(int i=0;i<s.size();i++) {
+        for(int i=0;i<n;i++) {
             freq[s[i]] = i;
         }
-        for(int i=0;i<s.size();i++) {
+        stack<char> st;
+        for(int i=0;i<n;i++) {
             if(visited.find(s[i]) != visited.end()) continue;
 
             while(!st.empty() && s[i] < st.top() && i < freq[st.top()]) {
