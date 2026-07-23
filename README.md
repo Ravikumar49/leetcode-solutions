@@ -189,6 +189,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -200,6 +201,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -218,6 +220,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -287,6 +290,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
