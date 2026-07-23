@@ -197,6 +197,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -213,6 +214,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -280,6 +282,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
