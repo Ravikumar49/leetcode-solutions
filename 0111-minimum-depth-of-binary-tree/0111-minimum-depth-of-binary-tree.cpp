@@ -15,19 +15,18 @@ public:
         if(root == nullptr) return 0;
         queue<TreeNode*> q;
         q.push(root);
-        int ans = INT_MAX;
         int level = 1;
         while(!q.empty()) {
             int levelSize = q.size();
             for(int i=0;i<levelSize;i++) {
                 TreeNode* curr = q.front();
                 q.pop();
-                if(curr->left == nullptr && curr->right == nullptr) ans = min(ans, level);
+                if(curr->left == nullptr && curr->right == nullptr) return level;
                 if(curr->left != nullptr) q.push(curr->left);
                 if(curr->right != nullptr) q.push(curr->right);
             }
             level++;
         }
-        return ans;
+        return level;
     }
 };
