@@ -11,22 +11,22 @@
  */
 class Solution {
 public:
-    void findAPath(TreeNode* root, int sum, vector<int> &current, vector<vector<int>> &allPaths) {
+    void findAllPaths(TreeNode* root, int sum, vector<int>& current, vector<vector<int>>& allPaths) {
         if(root == nullptr) return;
         current.push_back(root->val);
         if(root->val == sum && root->left == nullptr && root->right == nullptr) {
             allPaths.push_back(current);
         }
         else {
-            findAPath(root->left, sum - root->val, current, allPaths);
-            findAPath(root->right, sum - root->val, current, allPaths);
+            findAllPaths(root->left, sum - root->val, current, allPaths);
+            findAllPaths(root->right, sum - root->val, current, allPaths);
         }
         current.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> allPaths;
         vector<int> current;
-        findAPath(root, targetSum, current, allPaths);
+        findAllPaths(root, targetSum, current, allPaths);
         return allPaths;
     }
 };
