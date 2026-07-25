@@ -92,6 +92,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
@@ -277,6 +278,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
