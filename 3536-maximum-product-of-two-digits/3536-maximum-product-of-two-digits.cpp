@@ -8,7 +8,7 @@ public:
                 secondLargest = largest;
                 largest = rem;
             }
-            else if(rem >= secondLargest && rem < largest) {
+            else if(rem >= secondLargest) {
                 secondLargest = rem;
             }
             n /= 10;
