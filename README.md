@@ -94,6 +94,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -183,6 +184,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0078-subsets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -331,4 +333,5 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
