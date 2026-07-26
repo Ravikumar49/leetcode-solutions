@@ -6,7 +6,6 @@ public:
         int len = INT_MAX;
         int sum = 0;
         int j = 0;
-        //sort(nums.begin(), nums.end());
         while(i < n) {
             sum += nums[i];
             while(j < n && sum >= target) {
@@ -15,7 +14,6 @@ public:
                 }
                 sum -= nums[j];
                 j++;
-                cout << len << endl;
             }
             i++;
         }
