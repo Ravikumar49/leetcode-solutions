@@ -3,25 +3,25 @@ public:
     int maximumProduct(vector<int>& nums) {
         int n = nums.size();
         if(n == 3) return nums[0] * nums[1] * nums[2];
-        int largest = INT_MIN, secondLargest = INT_MIN + 1, thirdLargest = INT_MIN + 2, smallest = INT_MAX, secondSmallest = INT_MAX - 1;
+        int largest = INT_MIN, secondLargest = INT_MIN, thirdLargest = INT_MIN, smallest = INT_MAX, secondSmallest = INT_MAX;
         for(int i=0;i<n;i++) {
             if(nums[i] >= largest) {
                 thirdLargest = secondLargest;
                 secondLargest = largest;
                 largest = nums[i];
             }
-            else if(nums[i] >= secondLargest && nums[i] < largest) {
+            else if(nums[i] >= secondLargest) {
                 thirdLargest = secondLargest;
                 secondLargest = nums[i];
             }
-            else if(nums[i] >= thirdLargest && nums[i] < secondLargest) {
+            else if(nums[i] >= thirdLargest) {
                 thirdLargest = nums[i];
             }
             if(nums[i] <= smallest) {
                 secondSmallest = smallest;
                 smallest = nums[i];
             }
-            else if(nums[i] <= secondSmallest && nums[i] > smallest) {
+            else if(nums[i] <= secondSmallest) {
                 secondSmallest = nums[i];
             }
         }
