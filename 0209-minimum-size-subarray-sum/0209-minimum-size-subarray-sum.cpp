@@ -2,9 +2,11 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int n = nums.size();
-        int i = 0, j = 0;
-        int sum = 0;
+        int i = 0;
         int len = INT_MAX;
+        int sum = 0;
+        int j = 0;
+        //sort(nums.begin(), nums.end());
         while(i < n) {
             sum += nums[i];
             while(j < n && sum >= target) {
