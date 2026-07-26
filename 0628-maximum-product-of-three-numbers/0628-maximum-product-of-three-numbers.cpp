@@ -3,16 +3,8 @@ public:
     int maximumProduct(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         int n = nums.size();
-        int prod = INT_MIN;
-        for(int i=0;i<n-2;i++) {
-            int j = i+1, k = n-1;
-            while(j < k) {
-                int curr = nums[i] * nums[j] * nums[k];
-                prod = max(prod, curr);
-                j++;
-                k--;
-            }
-        }
-        return prod;
+        int prod1 = nums[n-1] * nums[n-2] * nums[n-3];
+        int prod2 = nums[0] * nums[1] * nums[n-1];
+        return max(prod1, prod2);
     }
 };
