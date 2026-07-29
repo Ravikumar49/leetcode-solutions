@@ -32,6 +32,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -205,6 +206,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
