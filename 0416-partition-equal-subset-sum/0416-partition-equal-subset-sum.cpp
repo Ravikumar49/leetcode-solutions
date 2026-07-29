@@ -6,7 +6,7 @@ public:
         for(int x : nums) {
             sum += x;
         }
-        if(sum % 2 != 0) return false;
+        if(sum%2 != 0) return false;
         int target = sum/2;
         vector<vector<bool>> dp(n+1, vector<bool>(target + 1));
         for(int i=0;i<=n;i++) {
@@ -18,7 +18,7 @@ public:
         for(int i=1;i<=n;i++) {
             for(int j=1;j<=target;j++) {
                 if(j - nums[i-1] >= 0) {
-                    dp[i][j] = dp[i-1][j- nums[i-1]] || dp[i-1][j];
+                    dp[i][j] = dp[i-1][j - nums[i-1]] || dp[i-1][j];
                 }
                 else {
                     dp[i][j] = dp[i-1][j];
