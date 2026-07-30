@@ -80,6 +80,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -119,6 +120,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -145,6 +147,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -214,6 +217,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
@@ -312,6 +316,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Stack
