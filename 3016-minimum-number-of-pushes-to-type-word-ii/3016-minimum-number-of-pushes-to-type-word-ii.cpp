@@ -8,7 +8,7 @@ public:
         }
         sort(map.rbegin(), map.rend());
         for(int i=0;i<26;i++) {
-            //if(map[i] == 0) break;
+            if(map[i] == 0) break;
             ans += (i/8 + 1) * map[i];
         }
         return ans;
