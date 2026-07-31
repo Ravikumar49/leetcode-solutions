@@ -48,6 +48,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
