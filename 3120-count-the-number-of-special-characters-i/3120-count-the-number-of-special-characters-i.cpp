@@ -1,13 +1,10 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_map<char, int> freq;
-        for(char c : word) {
-            freq[c]++;
-        }
+        unordered_set<char> s(word.begin(), word.end());
         int count = 0;
         for(char c='a';c<='z';c++) {
-            if(freq.count(c) && freq.count(c - 32)) {
+            if(s.count(c) && s.count(c - 'a' + 'A')) {
                 count++;
             }
         }
