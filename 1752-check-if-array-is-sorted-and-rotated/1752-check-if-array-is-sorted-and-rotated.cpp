@@ -18,6 +18,7 @@ public:
                 if(copy[j] != nums[(index + j) % n]) {
                     flag = false;
                 }
+                if(!flag) break;
             }
             if(flag) return flag;
         }
