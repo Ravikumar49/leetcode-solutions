@@ -118,6 +118,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -213,6 +214,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -360,6 +362,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
