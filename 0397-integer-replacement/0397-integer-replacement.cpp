@@ -1,17 +1,21 @@
 class Solution {
 public:
-    long long rec(long long n, unordered_map<long long, int>& dp) {
-        if(n == 1) return 0;
-        if(dp.find(n) != dp.end()) return dp[n];
-        int steps;
-        if(n%2 == 0) steps = 1 + rec(n/2, dp);
-        else {
-            steps = 1 + min(rec(n-1, dp), rec(n+1, dp));
+    int integerReplacement(long long n) {
+        int ans = 0;
+        while(n != 1) {
+            if(n%2 == 0) {
+                n /= 2;
+            }
+            else {
+                if(n == 3 || n%4 == 1) {
+                    n--;
+                }
+                else {
+                    n++;
+                }
+            }
+            ans++;
         }
-        return dp[n] = steps;
-    }
-    int integerReplacement(int n) {
-        unordered_map<long long, int> dp;
-        return rec(n, dp);
+        return ans;
     }
 };
