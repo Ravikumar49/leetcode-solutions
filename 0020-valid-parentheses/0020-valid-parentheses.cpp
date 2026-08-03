@@ -8,15 +8,14 @@ public:
             if(s[i] == '(' || s[i] == '[' || s[i] == '{') {
                 st.push(s[i]);
             }
-            else if(s[i] == ')' || s[i] == ']' || s[i] == '}') {
+            else {
                 if(st.empty()) return false;
-                else if((st.top() == '(' && s[i] != ')') || (st.top() == '[' && s[i] != ']') || (st.top() == '{' && s[i] != '}')) {
+                else if ((s[i] == ')' && st.top() != '(') || (s[i] == '}' && st.top() != '{') || (s[i] == ']' && st.top() != '[')) {
                     return false;
                 }
                 st.pop();
             }
         }
-        if(st.empty()) return true;
-        return false;
+        return st.empty();
     }
 };
