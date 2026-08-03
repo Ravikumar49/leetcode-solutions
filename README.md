@@ -53,6 +53,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -102,6 +103,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -234,6 +236,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -445,6 +448,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
