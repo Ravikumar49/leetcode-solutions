@@ -128,6 +128,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0008-string-to-integer-atoi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -226,6 +227,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
@@ -364,6 +366,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
