@@ -38,6 +38,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -210,6 +211,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -309,6 +311,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0113-path-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
@@ -330,6 +333,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -431,6 +435,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
