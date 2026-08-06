@@ -388,6 +388,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -483,6 +484,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
