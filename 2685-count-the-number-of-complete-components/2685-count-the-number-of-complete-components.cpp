@@ -8,29 +8,28 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-        queue<int> q;
         int ans = 0;
-        vector<int> visited(n, false);
+        vector<bool> visited(n, false);
         for(int i=0;i<n;i++) {
-            if(!visited[i]) {
-                int vertices = 0;
-                int edgeCount = 0;
-                q.push(i);
-                visited[i] = true;
-                while(!q.empty()) {
-                    int u = q.front();
-                    q.pop();
-                    vertices++;
-                    for(int v : adj[u]) {
-                        edgeCount++;
-                        if(!visited[v]) {
-                            visited[v] = true;
-                            q.push(v);
-                        }
+            if(visited[i]) continue;
+            queue<int> q;
+            q.push(i);
+            visited[i] = true;
+            int vertices = 0;
+            int edgeCount = 0;
+            while(!q.empty()) {
+                int u = q.front();
+                q.pop();
+                vertices++;
+                for(auto &v : adj[u]) {
+                    edgeCount++;
+                    if(!visited[v]) {
+                        visited[v] = true;
+                        q.push(v);
                     }
                 }
-                if(edgeCount == vertices * (vertices - 1)) ans++;
             }
+            if(edgeCount == vertices * (vertices - 1)) ans++;
         }
         return ans;
     }
