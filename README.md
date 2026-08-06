@@ -53,6 +53,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -330,6 +331,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0226-invert-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -427,6 +429,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
