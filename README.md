@@ -57,6 +57,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0643-maximum-average-subarray-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
@@ -181,6 +182,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
