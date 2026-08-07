@@ -93,6 +93,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3731-find-missing-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2574-left-and-right-sum-differences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
