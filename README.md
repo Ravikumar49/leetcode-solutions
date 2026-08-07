@@ -34,6 +34,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -208,6 +209,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0033-search-in-rotated-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0441-arranging-coins](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
@@ -452,6 +454,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
