@@ -30,6 +30,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0016-3sum-closest](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -202,6 +203,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0441-arranging-coins](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
