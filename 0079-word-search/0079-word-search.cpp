@@ -1,10 +1,10 @@
 class Solution {
 public:
-    bool dfs(vector<vector<char>>& grid, string &word, int r, int c, vector<vector<bool>>& visited, int j) {
+    vector<pair<int, int>> dir = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    bool dfs(vector<vector<char>>& grid, string word, int r, int c, vector<vector<bool>>& visited, int j) {
         if(j == word.size()) return true;
         int m = grid.size();
         int n = grid[0].size();
-        vector<pair<int, int>> dir = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
         visited[r][c] = true;
         for(auto [dr, dc] : dir) {
                 int nr = r + dr;
