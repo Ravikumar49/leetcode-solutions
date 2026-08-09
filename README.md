@@ -583,4 +583,12 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
