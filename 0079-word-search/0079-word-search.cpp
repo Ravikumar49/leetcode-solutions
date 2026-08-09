@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dfs(vector<vector<char>>& grid, string word, int r, int c, vector<vector<bool>>& visited, int j) {
+    bool dfs(vector<vector<char>>& grid, string &word, int r, int c, vector<vector<bool>>& visited, int j) {
         if(j == word.size()) return true;
         int m = grid.size();
         int n = grid[0].size();
