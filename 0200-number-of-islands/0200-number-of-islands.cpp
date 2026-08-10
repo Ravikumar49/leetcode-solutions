@@ -13,18 +13,15 @@ public:
                     count++;
                     q.push({i, j});
                     while(!q.empty()) {
-                        int size = q.size();
-                        for(int i=0;i<size;i++) {
-                            auto [r, c] = q.front();
-                            q.pop();
-                            visited[r][c] = true;
-                            for(auto [dr, dc] : dir) {
-                                int nr = r + dr;
-                                int nc = c + dc;
-                                if(nr < m && nc < n && nr >= 0 && nc >= 0 && !visited[nr][nc] && grid[nr][nc] == '1') {
-                                    visited[nr][nc] = true;
-                                    q.push({nr, nc});
-                                }
+                        auto [r, c] = q.front();
+                        q.pop();
+                        visited[r][c] = true;
+                        for(auto [dr, dc] : dir) {
+                            int nr = r + dr;
+                            int nc = c + dc;
+                            if(nr < m && nc < n && nr >= 0 && nc >= 0 && !visited[nr][nc] && grid[nr][nc] == '1') {
+                                visited[nr][nc] = true;
+                                q.push({nr, nc});
                             }
                         }
                     }
