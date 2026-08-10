@@ -3,23 +3,23 @@ public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int m = image.size();
         int n = image[0].size();
-        vector<pair<int, int>> dir = {{0,1}, {1,0}, {0, -1}, {-1, 0}};
+        vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         queue<pair<int, int>> q;
         vector<vector<bool>> visited(m, vector<bool>(n, false));
         q.push({sr, sc});
+        int val = image[sr][sc];
         visited[sr][sc] = true;
-        int curr = image[sr][sc];
-        image[sr][sc] = color;
         while(!q.empty()) {
             auto [r, c] = q.front();
             q.pop();
+            image[sr][sc] = color;
             for(auto [dr, dc] : dir) {
                 int nr = r + dr;
                 int nc = c + dc;
-                if(nr>=0 && nr<m && nc>=0 && nc<n && !visited[nr][nc] && image[nr][nc] == curr) {
-                    image[nr][nc] = color;
+                if(nr < m && nc < n && nr >= 0 && nc >= 0 && !visited[nr][nc] && image[nr][nc] == val) {
                     q.push({nr, nc});
                     visited[nr][nc] = true;
+                    image[nr][nc] = color;
                 }
             }
         }
