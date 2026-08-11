@@ -57,6 +57,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -138,6 +139,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0441-arranging-coins](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -197,6 +199,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -215,6 +218,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -609,6 +613,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
