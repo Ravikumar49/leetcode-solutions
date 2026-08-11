@@ -3,21 +3,17 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        int totalFresh = 0;
         queue<pair<int, int>> q;
+        int totalFresh = 0;
         for(int i=0;i<m;i++) {
             for(int j=0;j<n;j++) {
-                if(grid[i][j] == 2) {
-                    q.push({i, j});
-                }
-                else if(grid[i][j] == 1) {
-                    totalFresh++;
-                }
+                if(grid[i][j] == 2) q.push({i, j});
+                else if(grid[i][j] == 1) totalFresh++;
             }
         }
         vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        int time = 0;
         int invaded = 0;
+        int time = 0;
         while(!q.empty()) {
             int size = q.size();
             bool spread = false;
@@ -28,8 +24,8 @@ public:
                     int nr = r + dr;
                     int nc = c + dc;
                     if(nr < m && nc < n && nr >= 0 && nc >= 0 && grid[nr][nc] == 1) {
-                        q.push({nr, nc});
                         grid[nr][nc] = 2;
+                        q.push({nr, nc});
                         invaded++;
                         spread = true;
                     }
