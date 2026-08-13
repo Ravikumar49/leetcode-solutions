@@ -7,7 +7,6 @@ public:
             for(int j=0;j<n;j++) {
                 if(i != j && isConnected[i][j] == 1) {
                     adj[i+1].push_back(j+1);
-                    adj[j+1].push_back(i+1);
                 }
             }
         }
@@ -15,27 +14,20 @@ public:
         queue<int> q;
         vector<bool> visited(n+1, false);
         for(int i=1;i<=n;i++) {
-            if(!adj[i].empty() && !visited[i]) {
+            if(!visited[i]) {
                 q.push(i);
                 count++;
                 while(!q.empty()) {
-                    int size = q.size();
-                    for(int j=0;j<size;j++) {
-                        int curr = q.front();
-                        visited[i] = true;
-                        q.pop();
-                        for(auto &e : adj[curr]) {
-                            if(!visited[e]) {
-                                q.push(e);
-                                visited[e] = true;
-                            }
+                    int curr = q.front();
+                    q.pop();
+                    for(auto &e : adj[curr]) {
+                        if(!visited[e]) {
+                            q.push(e);
+                            visited[e] = true;
                         }
                     }
                 }
             }
-        }
-        for(int i=1;i<=n;i++) {
-            if(!visited[i]) count++;
         }
         return count;
     }
