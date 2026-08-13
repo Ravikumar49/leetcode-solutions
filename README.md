@@ -269,6 +269,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0130-surrounded-regions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -279,6 +280,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0207-course-schedule](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -395,6 +397,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0437-path-sum-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -423,6 +426,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
