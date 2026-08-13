@@ -64,6 +64,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -114,6 +115,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -179,6 +181,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0392-is-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -223,6 +226,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -271,6 +275,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -399,6 +404,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -428,6 +434,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
