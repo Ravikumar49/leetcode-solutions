@@ -34,6 +34,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -596,6 +597,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -703,4 +705,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
