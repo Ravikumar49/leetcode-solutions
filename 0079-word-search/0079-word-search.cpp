@@ -11,12 +11,8 @@ public:
             int nc = c + dc;
             if(nr < m && nc < n && nr >= 0 && nc >= 0 && !visited[nr][nc] && board[nr][nc] == word[j]) {
                 visited[nr][nc] = true;
-                if(dfs(board, word, visited, nr, nc, j-1)) {
-                    return true;
-                }
-                else {
-                    visited[nr][nc] = false;
-                }
+                if(dfs(board, word, visited, nr, nc, j - 1)) return true;
+                else visited[nr][nc] = false;
             }
         }
         visited[r][c] = false;
