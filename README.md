@@ -177,6 +177,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0079-word-search/) | Medium |
@@ -329,6 +330,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -595,6 +597,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
@@ -648,6 +651,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
