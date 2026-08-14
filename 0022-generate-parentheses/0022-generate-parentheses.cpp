@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void backtrack(int n, int open, int close, string curr, vector<string>& res) {
+    void backtrack(int n, int open, int close, string& curr, vector<string>& res) {
         if(open == n && close == n) {
             res.push_back(curr);
             return;
@@ -13,6 +13,7 @@ public:
         if(close < open) {
             curr.push_back(')');
             backtrack(n, open, close+1, curr, res);
+            curr.pop_back();
         }
     }
     vector<string> generateParenthesis(int n) {
