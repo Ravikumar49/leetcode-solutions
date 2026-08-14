@@ -178,6 +178,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0032-longest-valid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0392-is-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -330,6 +331,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -596,6 +598,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
