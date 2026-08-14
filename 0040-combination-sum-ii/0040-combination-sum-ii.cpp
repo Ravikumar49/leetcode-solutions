@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void backtrack(vector<int>& nums, int index, int sum, int target, vector<bool>& visited, vector<int>& curr, vector<vector<int>>& res) {
+    void backtrack(vector<int>& nums, int index, int sum, int target, vector<int>& curr, vector<vector<int>>& res) {
         if(sum > target) {
             return;
         }
@@ -10,12 +10,13 @@ public:
         }
         for(int i=index;i<nums.size();i++) {
             if(i > index && nums[i] == nums[i-1]) continue;
-            if(sum + nums[i] <= target && !visited[i]) {
+            if(sum + nums[i] <= target) {
                 curr.push_back(nums[i]);
-                visited[i] = true;
-                backtrack(nums, i+1, sum + nums[i], target, visited, curr, res);
+                backtrack(nums, i+1, sum + nums[i], target, curr, res);
                 curr.pop_back();
-                visited[i] = false;
+            }
+            else {
+                return;
             }
         }
     }
@@ -23,8 +24,7 @@ public:
         sort(candidates.begin(), candidates.end());
         vector<vector<int>> res;
         vector<int> curr;
-        vector<bool> visited(candidates.size(), false);
-        backtrack(candidates, 0, 0, target, visited, curr, res);
+        backtrack(candidates, 0, 0, target, curr, res);
         return res;
     }
 };
