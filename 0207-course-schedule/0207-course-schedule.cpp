@@ -1,13 +1,13 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>& adj, vector<int>& states, int course) {
-        if(states[course] == 1) return true;
-        if(states[course] == 2) return false;
-        states[course] = 1;
-        for(auto c : adj[course]) {
+    bool dfs(vector<vector<int>>& adj, vector<int>& states, int courses) {
+        if(states[courses] == 1) return true;
+        if(states[courses] == 2) return false;
+        states[courses] = 1;
+        for(int c : adj[courses]) {
             if(dfs(adj, states, c)) return true;
         }
-        states[course] = 2;
+        states[courses] = 2;
         return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
