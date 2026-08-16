@@ -66,6 +66,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -453,6 +454,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -571,6 +573,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0934-shortest-bridge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0934-shortest-bridge/) | Medium |
@@ -639,6 +642,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
