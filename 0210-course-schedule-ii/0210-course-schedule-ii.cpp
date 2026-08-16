@@ -4,13 +4,11 @@ public:
         if(states[course] == 1) return true;
         if(states[course] == 2) return false;
         states[course] = 1;
-        for(auto c : adj[course]) {
-            if(dfs(adj, states, c, ans)) {
-                return false;
-            }
+        for(int c : adj[course]) {
+            if(dfs(adj, states, c, ans)) return true;
         }
-        states[course] = 2;
         ans.push_back(course);
+        states[course] = 2;
         return false;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
@@ -19,15 +17,12 @@ public:
         for(auto &p : prerequisites) {
             int a = p[0];
             int b = p[1];
-            adj[b].push_back(a);
+            adj[a].push_back(b);
         }
         vector<int> ans;
         for(int i=0;i<numCourses;i++) {
-            if(dfs(adj, states, i, ans)) {
-                return {};
-            }
+            if(dfs(adj, states, i, ans)) return {};
         }
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
