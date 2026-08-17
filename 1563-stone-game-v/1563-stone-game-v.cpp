@@ -1,28 +1,29 @@
 class Solution {
 public:
-    int stoneGameV(vector<int>& stoneValue) {
-        int n = stoneValue.size();
-        vector<vector<int>> dp(n, vector<int>(n, -1));
-        for(int i=0;i<n;i++) dp[i][i] = 0;
-        vector<int> prefix(n);
-        prefix[0] = stoneValue[0];
-        for(int i=1;i<n;i++) {
-            prefix[i] = stoneValue[i] + prefix[i-1];
-        }
-        for(int len=2;len<=n;len++) {
-            for(int l=0;l+len<=n;l++) {
-                int r = l + len - 1;
-                for(int k=l;k<r;k++) {
-                    int score;
-                    int leftSum = prefix[k] - prefix[l] + stoneValue[l];
-                    int rightSum = prefix[r] - prefix[k+1] + stoneValue[k+1];
-                    if(leftSum < rightSum) score = leftSum + dp[l][k];
-                    else if(leftSum > rightSum) score = rightSum + dp[k+1][r];
-                    else score = leftSum + max(dp[l][k], dp[k+1][r]);
-                    dp[l][r] = max(dp[l][r], score);
-                }
+    vector<vector<int>> dp;
+    int dfs(const vector<int>& nums, int l, int r) {
+        if(l == r) return 0;
+        if(dp[l][r]) return dp[l][r];
+        int sum = accumulate(nums.begin() + l, nums.begin() + r + 1, 0);
+        int suml = 0;
+        for(int i=l;i<r;i++) {
+            suml += nums[i];
+            int sumr = sum - suml;
+            if(suml < sumr) {
+                dp[l][r] = max(dp[l][r], dfs(nums, l, i) + suml);
+            }
+            else if(suml > sumr) {
+                dp[l][r] = max(dp[l][r], dfs(nums, i+1, r) + sumr);
+            }
+            else {
+                dp[l][r] = max(dp[l][r], max(dfs(nums, l, i), dfs(nums, i+1, r)) + suml);
             }
         }
-        return dp[0][n-1];
+        return dp[l][r];
+    }
+    int stoneGameV(vector<int>& stoneValue) {
+        int n = stoneValue.size();
+        dp.assign(n, vector<int>(n));
+        return dfs(stoneValue, 0, n-1);
     }
 };
