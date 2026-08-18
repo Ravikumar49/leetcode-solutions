@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void backtrack(vector<int>& nums, int index, int sum, int target, vector<int>& curr, vector<vector<int>>& res) {
+    void backtrack(vector<int>& nums, int sum, int index, int target, vector<int>& curr, vector<vector<int>>& res) {
         if(sum > target) {
             return;
         }
@@ -11,7 +11,7 @@ public:
         for(int i=index;i<nums.size();i++) {
             if(sum + nums[i] <= target) {
                 curr.push_back(nums[i]);
-                backtrack(nums, i, sum + nums[i], target, curr, res);
+                backtrack(nums, sum + nums[i], i, target, curr, res);
                 curr.pop_back();
             }
         }
