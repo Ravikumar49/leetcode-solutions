@@ -9,16 +9,17 @@ public:
             if(!visited[i]) {
                 curr.push_back(nums[i]);
                 visited[i] = true;
-                backtrack(nums, index+1, visited, curr, res);
+                backtrack(nums, index + 1, visited, curr, res);
                 curr.pop_back();
                 visited[i] = false;
             }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
+        int n = nums.size();
+        vector<bool> visited(n, false);
         vector<vector<int>> res;
         vector<int> curr;
-        vector<bool> visited(nums.size(), false);
         backtrack(nums, 0, visited, curr, res);
         return res;
     }
