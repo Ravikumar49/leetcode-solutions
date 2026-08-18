@@ -356,6 +356,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0338-counting-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -397,6 +398,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
