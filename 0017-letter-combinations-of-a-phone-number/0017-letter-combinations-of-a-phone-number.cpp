@@ -1,11 +1,11 @@
 class Solution {
 public:
-    void backtrack(string& digits, int index, unordered_map<char, string>& mp, string curr, vector<string>& res) {
+    void backtrack(string& digits, int index, unordered_map<char, string>& mp, string& curr, vector<string>& res) {
         if(index == digits.size()) {
             res.push_back(curr);
             return;
         }
-        for(auto c : mp[digits[index]]) {
+        for(char c : mp[digits[index]]) {
             curr.push_back(c);
             backtrack(digits, index+1, mp, curr, res);
             curr.pop_back();
