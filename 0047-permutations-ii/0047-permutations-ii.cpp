@@ -17,9 +17,10 @@ public:
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
+        int n = nums.size();
+        vector<bool> visited(n, false);
         vector<vector<int>> res;
         vector<int> curr;
-        vector<bool> visited(nums.size(), false);
         sort(nums.begin(), nums.end());
         backtrack(nums, 0, visited, curr, res);
         return res;
