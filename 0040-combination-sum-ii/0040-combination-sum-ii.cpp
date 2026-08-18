@@ -1,9 +1,7 @@
 class Solution {
 public:
-    void backtrack(vector<int>& nums, int index, int sum, int target, vector<int>& curr, vector<vector<int>>& res) {
-        if(sum > target) {
-            return;
-        }
+    void backtrack(vector<int>& nums, int sum, int index, int target, vector<int>& curr, vector<vector<int>>& res) {
+        if(sum > target) return;
         if(sum == target) {
             res.push_back(curr);
             return;
@@ -12,11 +10,8 @@ public:
             if(i > index && nums[i] == nums[i-1]) continue;
             if(sum + nums[i] <= target) {
                 curr.push_back(nums[i]);
-                backtrack(nums, i+1, sum + nums[i], target, curr, res);
+                backtrack(nums, sum + nums[i], i + 1, target, curr, res);
                 curr.pop_back();
-            }
-            else {
-                return;
             }
         }
     }
