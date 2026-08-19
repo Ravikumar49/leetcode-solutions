@@ -9,7 +9,7 @@ public:
             for(int i=0;i<n;i++) {
                 if((nums[i] & mask) != 0) sum++;
             }
-            if(sum%3 == 1) ans |= 1 << bit;
+            if(sum%3 == 1) ans |= mask;
         }
         return ans;
     }
