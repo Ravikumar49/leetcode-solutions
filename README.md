@@ -86,6 +86,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -253,6 +254,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -380,6 +382,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -401,6 +404,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0338-counting-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
