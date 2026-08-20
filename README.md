@@ -106,6 +106,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2784-check-if-array-is-good](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -525,6 +526,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2293-min-max-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2293-min-max-game/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
