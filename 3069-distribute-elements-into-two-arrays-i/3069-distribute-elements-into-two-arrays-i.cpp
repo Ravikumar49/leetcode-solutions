@@ -11,12 +11,8 @@ public:
             else arr2.push_back(nums[i]);
         }
         vector<int> result;
-        for(int i=0;i<arr1.size();i++) {
-            result.push_back(arr1[i]);
-        }
-        for(int j=0;j<arr2.size();j++) {
-            result.push_back(arr2[j]);
-        }
+        for(int x : arr1) result.push_back(x);
+        for(int x : arr2) result.push_back(x);
         return result;
     }
 };
