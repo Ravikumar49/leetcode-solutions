@@ -107,6 +107,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -527,6 +528,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2293-min-max-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2293-min-max-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -611,6 +613,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -696,6 +699,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
