@@ -1,20 +1,18 @@
 class Solution {
 public:
     int maxProduct(vector<string>& words) {
-        vector<int> masks;
-        vector<int> lengths;
+        unordered_map<int, int> mp;
         for(auto word : words) {
             int mask = 0;
             for(char c : word) {
                 mask |= (1 << (c - 'a'));
             }
-            masks.push_back(mask);
-            lengths.push_back(word.length());
+            mp[mask] = max(mp[mask], (int)word.length());
         }
         int ans = 0;
-        for(int i=0;i<masks.size()-1;i++) {
-            for(int j=i+1;j<masks.size();j++) {
-                if((masks[i] & masks[j]) == 0) ans = max(ans, lengths[i] * lengths[j]);
+        for(auto [mask1, length1] : mp) {
+            for(auto [mask2, length2] : mp) {
+                if((mask1 & mask2) == 0) ans = max(ans, length1 * length2);
             }
         }
         return ans;
