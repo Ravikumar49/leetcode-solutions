@@ -6,7 +6,7 @@ public:
         for(auto word : words) {
             int mask = 0;
             for(char c : word) {
-                mask |= (1 << c - 'a');
+                mask |= (1 << (c - 'a'));
             }
             masks.push_back(mask);
             lengths.push_back(word.length());
