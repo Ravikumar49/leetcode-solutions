@@ -57,6 +57,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -132,6 +133,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0016-3sum-closest](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -161,6 +163,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0089-gray-code](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -252,6 +255,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0141-linked-list-cycle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -286,6 +290,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0162-find-peak-element](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -409,6 +414,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0136-single-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
