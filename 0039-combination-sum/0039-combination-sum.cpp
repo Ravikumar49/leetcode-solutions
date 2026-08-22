@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void backtrack(vector<int>& nums, int sum, int index, int target, vector<int>& curr, vector<vector<int>>& res) {
+    void backtrack(vector<int>& nums, int sum, int target, int index, vector<int>& curr, vector<vector<int>>& res) {
         if(sum > target) {
             return;
         }
@@ -11,7 +11,7 @@ public:
         for(int i=index;i<nums.size();i++) {
             if(sum + nums[i] <= target) {
                 curr.push_back(nums[i]);
-                backtrack(nums, sum + nums[i], i, target, curr, res);
+                backtrack(nums, sum+nums[i], target, i, curr, res);
                 curr.pop_back();
             }
         }
@@ -19,7 +19,7 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> res;
         vector<int> curr;
-        backtrack(candidates, 0, 0, target, curr, res);
+        backtrack(candidates, 0, target, 0, curr, res);
         return res;
     }
 };
