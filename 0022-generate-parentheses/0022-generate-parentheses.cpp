@@ -1,7 +1,7 @@
 class Solution {
 public:
     void backtrack(int n, int open, int close, string& curr, vector<string>& res) {
-        if(open == n && close == n) {
+        if((n==open) && (n==close)) {
             res.push_back(curr);
             return;
         }
