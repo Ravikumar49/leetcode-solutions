@@ -180,6 +180,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -226,6 +227,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -410,6 +412,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -730,6 +733,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Design
 | Problem Name | Difficulty |
