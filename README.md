@@ -190,6 +190,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -240,6 +241,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -751,6 +753,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -859,4 +862,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0464-can-i-win](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0464-can-i-win/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
