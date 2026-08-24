@@ -95,6 +95,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -147,6 +148,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1288-remove-covered-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -182,6 +184,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -424,6 +427,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -751,6 +755,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
