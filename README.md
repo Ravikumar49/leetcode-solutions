@@ -126,6 +126,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -308,6 +309,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
