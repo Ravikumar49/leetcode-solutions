@@ -19,11 +19,11 @@ public:
         }
         for(int col=0;col<n;col++) {
             if(!visited[col] && isSafe(board, row, col)) {
-                visited[col] = true;
                 board[row][col] = 'Q';
+                visited[col] = true;
                 backtrack(n, row+1, visited, board, res);
-                visited[col] = false;
                 board[row][col] = '.';
+                visited[col] = false;
             }
         }
     }
