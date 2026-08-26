@@ -2,21 +2,21 @@ class Solution {
 public:
     bool checkStrings(string s1, string s2) {
         int n = s1.size();
-        string evenChar, oddChar;
+        vector<int> evenCount(26, 0);
+        vector<int> oddCount(26, 0);
         for(int i=0;i<n;i++) {
-            if(i%2 == 0) evenChar.push_back(s1[i]);
-            else oddChar.push_back(s1[i]);
+            if(i%2 == 0) evenCount[s1[i] - 'a']++;
+            else oddCount[s1[i]  - 'a']++;
         }
-        string resEvenChar, resOddChar;
+        vector<int> resEvenCount(26, 0);
+        vector<int> resOddCount(26, 0);
         for(int i=0;i<n;i++) {
-            if(i%2 == 0) resEvenChar.push_back(s2[i]);
-            else resOddChar.push_back(s2[i]);
+            if(i%2 == 0) resEvenCount[s2[i] - 'a']++;
+            else resOddCount[s2[i] - 'a']++;
         }
-        sort(evenChar.begin(), evenChar.end());
-        sort(oddChar.begin(), oddChar.end());
-        sort(resEvenChar.begin(), resEvenChar.end());
-        sort(resOddChar.begin(), resOddChar.end());
-        if((evenChar == resEvenChar) && (oddChar == resOddChar)) return true;
-        return false;
+        for(int i=0;i<26;i++) {
+            if((evenCount[i] != resEvenCount[i]) || (oddCount[i] != resOddCount[i])) return false;
+        }
+        return true;
     }
 };
