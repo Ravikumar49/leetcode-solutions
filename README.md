@@ -157,6 +157,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -244,6 +245,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -300,6 +302,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
