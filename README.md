@@ -130,6 +130,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -318,6 +319,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
