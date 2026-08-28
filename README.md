@@ -173,6 +173,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
@@ -661,6 +662,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
@@ -674,6 +676,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0231-power-of-two](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
