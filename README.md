@@ -232,6 +232,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -292,6 +293,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -546,6 +548,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0130-surrounded-regions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -743,6 +746,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0093-restore-ip-addresses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
@@ -809,6 +813,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
