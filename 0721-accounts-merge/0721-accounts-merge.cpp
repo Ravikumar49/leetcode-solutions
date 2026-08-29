@@ -4,49 +4,48 @@ public:
     unordered_map<string, int> id;
     int find(int x) {
         if(parent[x] == x) return x;
-        return find(parent[x]);
+        return parent[x] = find(parent[x]);
     }
-    void unite(string email_a, string email_b) {
-        int a = find(id[email_a]);
-        int b = find(id[email_b]);
+    void unite(int a, int b) {
+        a = find(a);
+        b = find(b);
         if(a != b) parent[b] = a;
     }
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        for(int i=0;i<accounts.size();i++) {
+        int n = accounts.size();
+        int val = 0;
+        for(int i=0;i<n;i++) {
             for(int j=1;j<accounts[i].size();j++) {
-                string email = accounts[i][j];
-                if(!id.count(email)) id[email] = id.size();
+                if(!id.count(accounts[i][j])) id[accounts[i][j]] = val++;
             }
         }
-        parent.resize(id.size());
-        for(int i=0;i<id.size();i++) parent[i] = i;
-        for(int i=0;i<accounts.size();i++) {
-            string firstEmail = accounts[i][1];
+        parent.resize(val);
+        for(int i=0;i<val;i++) parent[i] = i;
+        for(int i=0;i<n;i++) {
             for(int j=2;j<accounts[i].size();j++) {
-                unite(firstEmail, accounts[i][j]);
+                unite(id[accounts[i][1]], id[accounts[i][j]]);
             }
         }
-        unordered_map<int, vector<string>> group;
-        for(auto &x : id) {
-            group[find(x.second)].push_back(x.first); 
+        unordered_map<int, vector<string>> groups;
+        for(auto entry : id) {
+            string email = entry.first;
+            int emailID = entry.second;
+            groups[find(emailID)].push_back(email);
         }
-        unordered_map<int, string> names;
-        for(int i=0;i<accounts.size();i++) {
-            string firstEmail = accounts[i][1];
-            int x = id[firstEmail];
-            int root = find(x);
-            names[root] = accounts[i][0];
+        unordered_map<int, string> name;
+        for(int i=0;i<n;i++) {
+            int root = find(id[accounts[i][1]]);
+            name[find(root)] = accounts[i][0];
         }
         vector<vector<string>> ans;
-        for(auto &root : group) {
-            vector<string> curr;
-            curr.push_back(names[root.first]);
-            vector<string> &emails = root.second;
+        for(auto& group : groups) {
+            int root = group.first;
+            vector<string>& emails = group.second;
             sort(emails.begin(), emails.end());
-            for(auto &email : emails) {
-                curr.push_back(email);
-            }
-            ans.push_back(curr);
+            vector<string> account;
+            account.push_back(name[root]);
+            for(string email : emails) account.push_back(email);
+            ans.push_back(account);
         }
         return ans;
     }
