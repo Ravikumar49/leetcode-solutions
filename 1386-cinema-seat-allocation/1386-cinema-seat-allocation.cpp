@@ -12,9 +12,9 @@ public:
         int groupC = (1 << 5) | (1 << 4) | (1 << 3) | (1 << 2);
         int total = 0;
         for(auto [r, k] : rowMask) {
-            if(((groupA & k) == 0) && ((groupC & k) == 0)) total += 2;
-            else if (((groupA & k) == 0) || ((groupC & k) == 0)) total++;
-            else if((groupB & k) == 0) total++;
+            if(((k & groupA) == 0) && ((k & groupC) == 0)) total += 2;
+            else if (((k & groupA) == 0) || ((k & groupC) == 0)) total++;
+            else if(((k & groupB) == 0)) total++;
         }
         total += 2 * (n - rowMask.size());
         return total;
