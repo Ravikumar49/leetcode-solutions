@@ -47,6 +47,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0079-word-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -299,6 +300,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0041-first-missing-positive](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -362,6 +364,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
