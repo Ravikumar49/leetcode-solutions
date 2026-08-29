@@ -6,9 +6,7 @@ public:
         vector<bool> visited(n+1, false);
         for(int i=0;i<n;i++) {
             for(int j=0;j<n;j++) {
-                if(i != j && isConnected[i][j] == 1) {
-                    adj[i+1].push_back(j+1);
-                }
+                if(i != j && isConnected[i][j]) adj[i+1].push_back(j+1);
             }
         }
         queue<int> q;
@@ -20,10 +18,10 @@ public:
                 while(!q.empty()) {
                     int curr = q.front();
                     q.pop();
-                    for(auto &e : adj[curr]) {
+                    for(auto e : adj[curr]) {
                         if(!visited[e]) {
-                            visited[e] = true;
                             q.push(e);
+                            visited[e] = true;
                         }
                     }
                 }
