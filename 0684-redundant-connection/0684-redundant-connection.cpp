@@ -14,10 +14,10 @@ public:
         int n = edges.size();
         parent.resize(n + 1);
         for(int i=1;i<=n;i++) parent[i] = i;
-        for(auto &e : edges) {
+        for(auto e : edges) {
             int a = e[0];
             int b = e[1];
-            if(find(a) == find(b)) return {a, b};
+            if(find(a) == find(b)) return {a,b};
             unite(a, b);
         }
         return {};
