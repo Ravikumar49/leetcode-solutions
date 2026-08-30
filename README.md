@@ -29,6 +29,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0011-container-with-most-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -148,6 +149,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -404,6 +406,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0011-container-with-most-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
