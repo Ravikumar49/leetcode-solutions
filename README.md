@@ -108,6 +108,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -466,6 +467,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
