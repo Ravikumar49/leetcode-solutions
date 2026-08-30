@@ -42,6 +42,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0047-permutations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -637,6 +638,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -715,6 +717,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0054-spiral-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
