@@ -71,6 +71,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -159,6 +160,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0056-merge-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -318,6 +320,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -682,6 +685,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -818,6 +822,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -829,6 +834,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0190-reverse-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -972,4 +978,12 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
