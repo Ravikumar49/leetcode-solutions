@@ -3,9 +3,9 @@ public:
     int robRec(vector<int>& nums, int i, vector<int>& dp) {
         int n = nums.size();
         if(i >= n) return 0;
-        if(i == n-1) return nums[i];
+        if(i == n-1) return nums[n-1];
         if(dp[i] != -1) return dp[i];
-        return dp[i] = max(nums[i] + robRec(nums, i+2, dp), robRec(nums, i+1, dp));
+        return dp[i] = max(robRec(nums, i+1, dp), nums[i] + robRec(nums, i+2, dp));
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
