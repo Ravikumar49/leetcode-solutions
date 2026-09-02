@@ -149,6 +149,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
@@ -239,6 +240,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3828-final-element-after-subarray-deletions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
