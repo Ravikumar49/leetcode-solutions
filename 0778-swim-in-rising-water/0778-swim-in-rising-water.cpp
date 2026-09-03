@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool canReach(vector<vector<int>>& grid, int t) {
+    bool bfs(vector<vector<int>>& grid, int t) {
         int n = grid.size();
         if(grid[0][0] > t) return false;
         vector<vector<bool>> visited(n, vector<bool>(n, false));
@@ -12,8 +12,8 @@ public:
             for(int i=0;i<size;i++) {
                 auto [r, c] = q.front();
                 q.pop();
-                if(r == n-1 && c == n-1) return true;
                 visited[r][c] = true;
+                if(r == n-1 && c == n-1) return true;
                 for(auto [dr, dc] : dir) {
                     int nr = r + dr;
                     int nc = c + dc;
@@ -31,13 +31,9 @@ public:
         int left = 0;
         int right = n * n - 1;
         while(left < right) {
-            int mid = left + (right - left)/2;
-            if(canReach(grid, mid)) {
-                right = mid;
-            }
-            else {
-                left = mid + 1;
-            }
+            int mid = left + (right - left) / 2;
+            if(bfs(grid, mid)) right = mid;
+            else left = mid + 1;
         }
         return left;
     }
