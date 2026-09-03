@@ -7,12 +7,12 @@ public:
         vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         queue<pair<int, int>> q;
         q.push({0, 0});
+        visited[0][0] = true;
         while(!q.empty()) {
             int size = q.size();
             for(int i=0;i<size;i++) {
                 auto [r, c] = q.front();
                 q.pop();
-                visited[r][c] = true;
                 if(r == n-1 && c == n-1) return true;
                 for(auto [dr, dc] : dir) {
                     int nr = r + dr;
