@@ -75,6 +75,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0318-maximum-product-of-word-lengths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -840,6 +841,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
