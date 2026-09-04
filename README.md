@@ -65,6 +65,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
@@ -678,6 +679,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -836,6 +838,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -1015,4 +1018,16 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
