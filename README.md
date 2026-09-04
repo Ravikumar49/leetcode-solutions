@@ -130,6 +130,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -379,6 +380,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -772,6 +774,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -876,6 +879,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -947,6 +951,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
