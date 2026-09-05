@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool bfs(vector<vector<int>>& grid, int t) {
-        int n = grid.size();
         if(grid[0][0] > t) return false;
+        int n = grid.size();
         vector<vector<bool>> visited(n, vector<bool>(n, false));
-        vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         queue<pair<int, int>> q;
+        vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         q.push({0, 0});
         visited[0][0] = true;
         while(!q.empty()) {
