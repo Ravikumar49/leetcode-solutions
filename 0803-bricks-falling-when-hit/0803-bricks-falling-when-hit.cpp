@@ -3,7 +3,7 @@ public:
     vector<int> parent;
     vector<int> sz;
     int find(int x) {
-        if(parent[x] == x) return x;
+        if(parent[x] == x) return parent[x];
         return parent[x] = find(parent[x]);
     }
     void unite(int a, int b) {
@@ -27,18 +27,18 @@ public:
             parent[i] = i;
             sz[i] = 1;
         }
-        for(int i=0;i<m;i++) {
-            for(int j=0;j<n;j++) {
-                if(grid[i][j] == 0) continue;
-                int current = i * n + j;
-                if(i == 0) unite(current, m*n);
-                if(i+1 < m && grid[i+1][j] == 1) unite(current, (i+1) * n + j);
-                if(j+1 < n && grid[i][j+1] == 1) unite(current, i * n + (j + 1));
+        for(int r=0;r<m;r++) {
+            for(int c=0;c<n;c++) {
+                if(grid[r][c] == 0) continue;
+                int current = r * n + c;
+                if(r == 0) unite(current, m*n);
+                if(r+1 < m && grid[r+1][c] == 1) unite(current, (r+1) * n + c);
+                if(c+1 < n && grid[r][c+1] == 1) unite(current, r * n + (c + 1));
             }
         }
-        vector<int> res(hits.size());
         vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        for(int i=hits.size()-1;i>=0;i--) {
+        vector<int> res(hits.size());
+        for(int i=hits.size() - 1;i >= 0;i--) {
             int r = hits[i][0];
             int c = hits[i][1];
             if(original[r][c] == 0 || grid[r][c] == 1) {
@@ -46,9 +46,9 @@ public:
                 continue;
             }
             int before = sz[find(m*n)];
-            grid[r][c] = 1;
             int current = r * n + c;
-            if(r == 0) unite(current, m*n);
+            grid[r][c] = 1;
+            if (r == 0) unite(current, m*n);
             for(auto [dr, dc] : dir) {
                 int nr = r + dr;
                 int nc = c + dc;
