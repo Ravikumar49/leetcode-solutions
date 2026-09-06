@@ -7,8 +7,8 @@ public:
         for(int count=0;count<3 && !pq.empty();count++) {
             auto [val, index] = pq.top();
             if(count == 0) ans[index] = "Gold Medal";
-            if(count == 1) ans[index] = "Silver Medal";
-            if(count == 2) ans[index] = "Bronze Medal";
+            else if(count == 1) ans[index] = "Silver Medal";
+            else ans[index] = "Bronze Medal";
             pq.pop();
         }
         int pos = 4;
