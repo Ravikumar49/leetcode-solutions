@@ -64,6 +64,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
@@ -165,6 +166,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0047-permutations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -841,6 +843,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -854,6 +857,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Game Theory
@@ -1009,6 +1013,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
