@@ -258,6 +258,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -461,6 +462,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0064-minimum-path-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
