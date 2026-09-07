@@ -85,6 +85,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0506-relative-ranks](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
+| [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
@@ -176,6 +177,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -343,6 +345,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0389-find-the-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -506,6 +509,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
+| [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -712,6 +716,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -860,6 +865,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0506-relative-ranks](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
