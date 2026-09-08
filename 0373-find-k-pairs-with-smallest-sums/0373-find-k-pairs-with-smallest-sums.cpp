@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<tuple<int, int, int>>> pq;
-        for(int i=0;i<min(k, (int)nums1.size());i++) pq.push({nums1[i] + nums2[0], i, 0});
+        int n = nums1.size();
+        for(int i=0;i<min(n, k);i++) pq.push({nums1[i] + nums2[0], i, 0});
         vector<vector<int>> res;
         for(int count=0;count<k && !pq.empty();count++) {
             auto [sum, i, j] = pq.top();
