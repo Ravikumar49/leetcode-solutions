@@ -438,6 +438,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -609,6 +610,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -646,6 +648,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -885,6 +888,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0658-find-k-closest-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Divide and Conquer
@@ -1039,6 +1043,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -1087,4 +1092,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
