@@ -211,6 +211,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
@@ -486,6 +487,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0042-trapping-rain-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -726,6 +728,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
