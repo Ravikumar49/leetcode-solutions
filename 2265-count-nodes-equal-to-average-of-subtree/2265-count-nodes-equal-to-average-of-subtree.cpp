@@ -18,11 +18,11 @@ public:
         auto [rightSum, rightCount] = solve(root->right);
         int sum = root->val + leftSum + rightSum;
         int count = 1 + leftCount + rightCount;
-        if(root->val == floor(sum/count)) ans += 1;
+        if(root->val == sum/count) ans += 1;
         return {sum, count};
     }
     int averageOfSubtree(TreeNode* root) {
-        auto [sum, count] = solve(root);
+        solve(root);
         return ans;
     }
 };
