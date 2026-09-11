@@ -1,39 +1,21 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        unordered_map<int, int> freq;
-        bool isEven = false;
-        for(int x : digits) {
-            if(x%2 == 0) isEven = true;
-            freq[x]++;
-        }
-        if(!isEven) return 0;
+        int n = digits.size();
+        bool vis[1000]{};
         int ans = 0;
-        int val, curr1, curr2;
-        for(int units=0;units<=8;units+=2) {
-            if(freq[units] > 0) {
-                val = units;
-                curr1 = val;
-                freq[units]--;
-                for(int tens=0;tens<=9;tens++) {
-                    if(freq[tens] > 0) {
-                        val = (tens*10) + val;
-                        curr2 = val;
-                        freq[tens]--;
-                        for(int hundred=1;hundred<=9;hundred++) {
-                            if(freq[hundred] > 0) {
-                                val = (hundred*100) + val;
-                                freq[hundred]--;
-                                ans++;
-                                freq[hundred]++;
-                                val = curr2;
-                            }
-                        }
-                        freq[tens]++;
-                        val = curr1;
+        for(int i=0;i<n;i++) {
+            if(digits[i] == 0) continue;
+            for(int j=0;j<n;j++) {
+                if(i == j) continue;
+                for(int k=0;k<n;k++) {
+                    if(k == i || k == j || digits[k] % 2 != 0) continue;
+                    int x = digits[i] * 100 + digits[j] * 10 + digits[k];
+                    if(!vis[x]) {
+                        vis[x] = true;
+                        ans++;
                     }
                 }
-                freq[units]++;
             }
         }
         return ans;
