@@ -9,7 +9,7 @@ public:
         }
         if(!isEven) return 0;
         int ans = 0;
-        int val, curr1, curr2, curr3;
+        int val, curr1, curr2;
         for(int units=0;units<=8;units+=2) {
             if(freq[units] > 0) {
                 val = units;
@@ -23,7 +23,6 @@ public:
                         for(int hundred=1;hundred<=9;hundred++) {
                             if(freq[hundred] > 0) {
                                 val = (hundred*100) + val;
-                                curr3 = val;
                                 freq[hundred]--;
                                 ans++;
                                 freq[hundred]++;
