@@ -25,9 +25,7 @@ public:
                                 val = (hundred*100) + val;
                                 curr3 = val;
                                 freq[hundred]--;
-                                if(val <= 998) {
-                                    ans++;
-                                }
+                                ans++;
                                 freq[hundred]++;
                                 val = curr2;
                             }
