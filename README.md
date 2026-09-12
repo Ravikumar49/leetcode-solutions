@@ -87,6 +87,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0506-relative-ranks](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -329,6 +330,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -361,6 +363,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
