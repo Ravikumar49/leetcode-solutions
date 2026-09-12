@@ -75,6 +75,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0322-coin-change](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -504,6 +505,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -652,6 +654,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0207-course-schedule](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -1081,6 +1084,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -1114,4 +1118,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
