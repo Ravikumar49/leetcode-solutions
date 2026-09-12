@@ -13,8 +13,7 @@ public:
         for(int i=1;i<=n;i++) {
             if(last[i-1] == -1) dp[i] = (2LL * dp[i-1]) % MOD;
             else {
-                int j = last[i-1];
-                dp[i] = ((2LL * dp[i-1]) % MOD - dp[j] + MOD) % MOD;
+                dp[i] = ((2 * dp[i-1]) % MOD - dp[last[i-1]] + MOD) % MOD;
             }
         }
         return (dp[n] - 1 + MOD) % MOD;
