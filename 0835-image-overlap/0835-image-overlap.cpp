@@ -21,7 +21,7 @@ public:
                 auto [r2, c2] = ones2[j];
                 int dr = r2 - r1;
                 int dc = c2 - c1;
-                int key = (dr + n -1) * (2 * n - 1) - (dc + n - 1);
+                int key = (dr + n -1) * (2 * n - 1) + (dc + n - 1);
                 freq[key]++;
             }
         }
