@@ -104,6 +104,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0803-bricks-falling-when-hit](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0803-bricks-falling-when-hit/) | Hard |
+| [0835-image-overlap](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -821,6 +822,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0803-bricks-falling-when-hit](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0803-bricks-falling-when-hit/) | Hard |
+| [0835-image-overlap](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
