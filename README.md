@@ -307,6 +307,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -486,6 +487,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -530,6 +532,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -554,6 +557,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
