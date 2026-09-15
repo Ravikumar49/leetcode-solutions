@@ -67,6 +67,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0200-number-of-islands](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
@@ -179,6 +180,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0056-merge-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -360,6 +362,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0146-lru-cache](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -760,6 +763,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -1142,4 +1146,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
