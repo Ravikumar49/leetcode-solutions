@@ -57,6 +57,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0120-triangle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0134-gas-station](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
@@ -546,6 +547,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
