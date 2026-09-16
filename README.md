@@ -63,6 +63,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0135-candy](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -295,6 +296,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -365,6 +367,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
@@ -526,6 +529,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -921,6 +925,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0464-can-i-win](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0464-can-i-win/) | Medium |
@@ -1148,6 +1153,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -1173,4 +1179,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
