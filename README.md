@@ -230,6 +230,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0089-gray-code](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0268-missing-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
@@ -532,6 +533,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
@@ -832,6 +834,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0010-regular-expression-matching](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0231-power-of-two](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0342-power-of-four](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
