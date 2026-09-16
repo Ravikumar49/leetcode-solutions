@@ -55,6 +55,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
@@ -521,6 +522,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
