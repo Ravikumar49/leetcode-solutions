@@ -243,6 +243,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0509-fibonacci-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0650-2-keys-keyboard](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -553,6 +554,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0516-longest-palindromic-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
