@@ -111,6 +111,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0752-open-the-lock](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0803-bricks-falling-when-hit](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0803-bricks-falling-when-hit/) | Hard |
+| [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -512,6 +513,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0392-is-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -632,6 +634,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0401-binary-watch](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
 | [0464-can-i-win](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0464-can-i-win/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
+| [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -769,6 +772,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0412-fizz-buzz](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2293-min-max-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2293-min-max-game/) | Easy |
@@ -878,6 +882,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0733-flood-fill](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0803-bricks-falling-when-hit](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0803-bricks-falling-when-hit/) | Hard |
+| [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
