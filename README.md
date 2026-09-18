@@ -100,6 +100,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0643-maximum-average-subarray-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
+| [0682-baseball-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -772,6 +773,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0412-fizz-buzz](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -829,6 +831,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
