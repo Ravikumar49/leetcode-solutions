@@ -164,6 +164,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -278,6 +279,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -914,6 +916,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
