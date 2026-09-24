@@ -342,6 +342,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0940-distinct-subsequences-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1763-longest-nice-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -422,6 +423,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -665,6 +667,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -831,6 +834,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -1030,6 +1034,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
