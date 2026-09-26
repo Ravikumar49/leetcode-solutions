@@ -257,6 +257,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0412-fizz-buzz](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0464-can-i-win](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0464-can-i-win/) | Medium |
+| [0479-largest-palindrome-product](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -684,6 +685,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0479-largest-palindrome-product](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0479-largest-palindrome-product/) | Hard |
 | [1291-sequential-digits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
