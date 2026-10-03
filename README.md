@@ -334,6 +334,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0318-maximum-product-of-word-lengths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0389-find-the-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -890,6 +891,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0143-reorder-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -929,6 +931,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0234-palindrome-linked-list](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0342-power-of-four](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
