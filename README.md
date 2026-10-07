@@ -331,6 +331,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0187-repeated-dna-sequences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0389-find-the-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -765,6 +766,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0207-course-schedule](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -1026,6 +1028,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0126-word-ladder-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
