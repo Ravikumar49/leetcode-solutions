@@ -117,6 +117,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0832-flipping-an-image](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0934-shortest-bridge/) | Medium |
@@ -490,6 +491,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0704-binary-search](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
