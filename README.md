@@ -156,6 +156,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2540-minimum-common-value](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -710,6 +711,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0479-largest-palindrome-product/) | Hard |
 | [1291-sequential-digits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
