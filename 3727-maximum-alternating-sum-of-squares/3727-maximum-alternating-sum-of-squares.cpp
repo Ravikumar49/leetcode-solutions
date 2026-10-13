@@ -11,10 +11,6 @@ public:
             index++;
         }
         long long pos = 0;
-        if(n%2 == 0) {
-            pos += nums[index];
-            index++;
-        }
         while(index < n) {
             pos += nums[index];
             index++;
