@@ -15,7 +15,7 @@ public:
             else if (ch == 'U') nr--;
             else nr++;
             if(nr >= m || nr < 0 || nc >= n || nc < 0) return {r, c};
-            else if(nr < m && nr >= 0 && nc < n && nc >= 0 && visited[nr][nc]) return {r, c};
+            else if(visited[nr][nc]) return {r, c};
             visited[nr][nc] = true;
             r = nr;
             c = nc;
