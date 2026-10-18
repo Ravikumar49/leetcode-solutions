@@ -135,6 +135,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -284,6 +285,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1510-stone-game-iv](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -533,6 +535,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0803-bricks-falling-when-hit](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0803-bricks-falling-when-hit/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -637,6 +640,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -849,6 +853,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0437-path-sum-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Simulation
@@ -895,6 +900,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -1035,6 +1041,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0437-path-sum-iii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -1072,11 +1079,13 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0397-integer-replacement](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0464-can-i-win](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0464-can-i-win/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1106,6 +1115,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1763-longest-nice-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -1341,4 +1351,8 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
