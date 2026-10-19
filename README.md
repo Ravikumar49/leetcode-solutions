@@ -163,6 +163,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [2942-find-words-containing-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -384,6 +385,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
