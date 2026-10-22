@@ -203,6 +203,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3886-sum-of-sortable-integers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
