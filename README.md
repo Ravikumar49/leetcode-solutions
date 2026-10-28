@@ -203,6 +203,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -668,6 +669,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -742,6 +744,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1028,6 +1031,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
