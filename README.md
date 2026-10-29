@@ -200,6 +200,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -412,6 +413,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -744,6 +746,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -801,6 +804,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3310-remove-methods-from-project](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -880,6 +884,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1048,6 +1053,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1144,6 +1150,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0347-top-k-frequent-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1763-longest-nice-substring](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1178,6 +1185,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
