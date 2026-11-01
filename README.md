@@ -90,6 +90,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0413-arithmetic-slices](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
@@ -282,6 +283,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0412-fizz-buzz](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0464-can-i-win](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0464-can-i-win/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
