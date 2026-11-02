@@ -91,6 +91,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0416-partition-equal-subset-sum](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
@@ -229,6 +230,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -284,6 +286,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0412-fizz-buzz](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0464-can-i-win](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0464-can-i-win/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0486-predict-the-winner](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
