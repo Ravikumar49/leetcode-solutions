@@ -146,6 +146,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1833-maximum-ice-cream-bars](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1872-stone-game-viii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -1160,6 +1161,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [0743-network-delay-time](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ravikumar49/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Divide and Conquer
