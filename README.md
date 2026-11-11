@@ -344,6 +344,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3848-check-digitorial-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -735,6 +736,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
