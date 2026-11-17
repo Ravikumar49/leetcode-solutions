@@ -417,6 +417,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2785-sort-vowels-in-a-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2942-find-words-containing-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -634,6 +635,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -695,6 +697,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2008-maximum-earnings-from-taxi](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
