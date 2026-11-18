@@ -418,6 +418,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
