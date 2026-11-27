@@ -227,6 +227,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3904-smallest-stable-index-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,6 +726,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -765,6 +767,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
