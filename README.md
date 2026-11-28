@@ -228,6 +228,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3934-smallest-unique-subarray](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +289,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3731-find-missing-elements](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -768,6 +770,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1213,6 +1216,7 @@ Welcome to my repository dedicated to tracking my problem-solving journey on Lee
 | [1882-process-tasks-using-servers](https://github.com/Ravikumar49/leetcode-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ravikumar49/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ravikumar49/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
